@@ -11,3 +11,5 @@ This is my first project for [The Odin Project](https://www.theodinproject.com/)
 To create a simple, clean recipe page that shows my understanding of semantic HTML and good project structure.
 
 Stay tuned — more features and pages coming soon!
+
+today i added some styling using css but didnt finish the main page 
